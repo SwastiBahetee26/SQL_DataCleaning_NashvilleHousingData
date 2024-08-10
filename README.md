@@ -9,7 +9,7 @@ This project focuses on cleaning raw housing data using SQL Server to make it mo
 
 The raw housing data used in this project is contained in a single Excel file:
 
-- **NashvilleHousingData.xlsx** - Contains the initial raw data with housing information.
+- **NashvilleHousing.xlsx** - Contains the initial raw data with housing information.
 
 ## How to Use
 
